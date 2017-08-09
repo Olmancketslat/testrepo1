@@ -1,6 +1,0 @@
-Hallo git!
-
-Status Kommandos
-Doppelt
-
-neuercommit
